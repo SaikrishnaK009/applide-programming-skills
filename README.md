@@ -49,6 +49,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0078-subsets/) | Medium |
 | [0169-majority-element](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0200-number-of-islands/) | Medium |
@@ -167,5 +168,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
