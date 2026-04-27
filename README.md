@@ -16,6 +16,7 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
+| [0542-01-matrix](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0841-keys-and-rooms/) | Medium |
@@ -41,6 +42,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
@@ -51,6 +53,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 ## Topological Sort
@@ -59,4 +62,8 @@
 | [0207-course-schedule](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0542-01-matrix](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0542-01-matrix/) | Medium |
 <!---LeetCode Topics End-->
