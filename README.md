@@ -4,6 +4,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
@@ -14,6 +15,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0542-01-matrix](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0542-01-matrix/) | Medium |
@@ -26,6 +28,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -42,6 +45,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
@@ -53,6 +57,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
