@@ -52,6 +52,7 @@
 | [0542-01-matrix](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0721-accounts-merge/) | Medium |
+| [0929-unique-email-addresses](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
 | [0994-rotting-oranges](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
 ## Hash Table
@@ -59,6 +60,7 @@
 | ------- | ------- |
 | [0202-happy-number](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0202-happy-number/) | Easy |
 | [0721-accounts-merge](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0721-accounts-merge/) | Medium |
+| [0929-unique-email-addresses](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
 | [0997-find-the-town-judge](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -81,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0721-accounts-merge/) | Medium |
+| [0929-unique-email-addresses](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
