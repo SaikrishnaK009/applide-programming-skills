@@ -83,6 +83,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0070-climbing-stairs/) | Easy |
 | [0542-01-matrix](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -101,6 +102,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0202-happy-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -144,4 +146,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0070-climbing-stairs/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
