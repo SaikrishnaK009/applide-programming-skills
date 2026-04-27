@@ -19,6 +19,7 @@
 | [0200-number-of-islands](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
+| [0322-coin-change](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
@@ -50,6 +51,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0322-coin-change/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
@@ -86,6 +88,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0070-climbing-stairs/) | Easy |
+| [0322-coin-change](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0322-coin-change/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0746-min-cost-climbing-stairs/) | Easy |
