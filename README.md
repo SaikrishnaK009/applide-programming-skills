@@ -48,6 +48,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
@@ -58,6 +59,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0202-happy-number/) | Easy |
 | [0721-accounts-merge](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
@@ -87,6 +89,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0721-accounts-merge](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -96,4 +99,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0202-happy-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
