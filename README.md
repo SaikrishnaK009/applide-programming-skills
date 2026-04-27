@@ -54,6 +54,7 @@
 | [0695-max-area-of-island](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
 ## Hash Table
@@ -93,10 +94,12 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0721-accounts-merge](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0721-accounts-merge/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0202-happy-number/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +109,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0190-reverse-bits/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1763-longest-nice-substring](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/1763-longest-nice-substring/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -120,4 +124,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1763-longest-nice-substring](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/1763-longest-nice-substring/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
