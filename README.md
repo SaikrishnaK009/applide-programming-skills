@@ -82,6 +82,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0070-climbing-stairs/) | Easy |
 | [0542-01-matrix](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0542-01-matrix/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0202-happy-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Two Pointers
@@ -136,4 +138,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SaikrishnaK009/applide-programming-skills/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
